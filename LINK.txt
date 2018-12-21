@@ -1,0 +1,12 @@
+https://github.com/PardeepKumartech/Bootstrap_Dashboard_with_PHP/tree/master/bootstrapp_php
+
+
+datatable with modal open edit delete (PHP-Bootstrap)
+https://www.codexworld.com/bootstrap-modal-dynamic-content-jquery-ajax-php-mysql/
+
+https://www.webslesson.info/2017/07/live-add-edit-delete-datatables-records-using-php-ajax.html
+
+https://www.webslesson.info/2016/10/datatables-jquery-plugin-with-php-mysql-and-bootstrap.html
+
+http://localhost/pur_inv/datatable_ex.php
+
